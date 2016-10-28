@@ -1,3 +1,5 @@
+# aulas-api-retrofit2-android-sample-app
+
 # Example Retrofit 2 Android application
 
 This is a tiny application that shows how to use a few popular Android libraries:
@@ -13,4 +15,4 @@ We have written a series of blogposts about it:
 
 Here's what it can look like when you run it: 
 
-<img src="https://cloud.githubusercontent.com/assets/426039/16516392/7cf61610-3f80-11e6-8be1-dbb8d8cf91c7.png" width="320"/>
+<img src="https://cloud.githubusercontent.com/assets/426039/16516392/7cf61610-3f80-11e6-8be1-dbb8d8cf91c7.png" width="320"/
